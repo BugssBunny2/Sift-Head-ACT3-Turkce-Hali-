@@ -8,3 +8,6 @@ Sonra Buraya shw_act3 dosyasının ismini yazıyorum örnek olarak benimkini pay
 ![image](https://github.com/user-attachments/assets/703000ca-692c-4296-b6ec-5b17bbe02831)
 Bu Şekilde Yolu buraya belirtiyoruz oyunumuz türkçe hale geliyor iyi Oyunlar Dilerim...
 
+Yada  En Basit Yöntem olarak oyunu Projectorun üzerine sürükleyebilirsiniz yada swf dosyasına sağ tıklayıp birlikte aç diyip projectorude seçebilirsiniz Aşağıda Fotoğrafını Paylaştım
+
+![image](https://github.com/user-attachments/assets/c64b5424-8fcf-4f74-81cc-60d2f192657f)
